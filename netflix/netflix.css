@@ -1,0 +1,463 @@
+.parent{
+    background-color: rgb(48, 46, 46);
+    display: flex;
+    max-width: 100%;
+    height: 594vh;
+    overflow-x: hidden;
+
+}
+* {margin: 0;
+
+}
+.child1{
+    
+
+    
+
+}
+img{
+    width: 1470px;
+    height: 697px;
+    opacity: 0.3;
+    
+}
+span1{
+    position: absolute;
+    top: 30px;
+    left: 200px;
+    font-style: italic;
+    font-size:50px;
+    color: rgb(244, 7, 7);
+    letter-spacing: -5px;}
+#languages{
+    background-color: black;
+     position: absolute;
+    top: 30px;
+    left: 1140px;
+    width: 100px;
+    height: 30px;
+    font-style: normal;
+    color: white;
+    padding:;}
+    button1{
+        background-color: red;
+        color: white;
+        position: absolute;
+        top: 30px;
+        left: 1250px;
+        padding: 10px 10px 10px 10px;
+        border-radius: 10px;}
+        button1:hover{
+            transition: 0.5s;
+            background-color: brown; 
+    }
+        p1{
+            color: white;
+            font-weight: 600;
+            position: absolute;
+            top: 250px;
+            left: 220px;
+            font-size: 50px
+        }
+        p2{
+            color: white;
+            font-weight: 600;
+            position: absolute;
+            top: 310px;
+            left: 570px;
+            font-size: 50px
+            
+        }
+        p3{
+            color: white;
+            font-weight: 400;
+            font-size: 25px;
+            position: absolute;
+            top: 390px;
+            left: 600px;
+        }
+        p4{
+            color: white;
+            font-size: 20px;
+            font-weight:300 ;
+            position: absolute;
+            top: 450px;
+            left: 500px;
+        }
+        input{
+            position: absolute;
+            top: 510px;
+            left: 540px;
+            width: 275px;
+            height: 50px;
+            background-color: rgb(54, 53, 53);
+            border-radius: 10px;
+
+        }
+        button2{
+            background-color: red;
+            color: white;
+            position: absolute;
+            top:510px ;
+            left:830px ;
+            width: 205px;
+            height: 50px;
+            border-radius: 10px;
+        }
+        button2:hover{
+            transition: 0.5s;
+            background-color: brown;
+        }
+
+
+
+
+
+        p5{
+            position: relative;
+            left: 25px;
+            top: 10px;
+            font-size: x-large;
+        }
+        p6{
+            position: relative;
+            left: 50px;
+            top: 10px;
+            font-size: x-large;
+
+
+        }
+        .child2{
+            background-color:black;
+            width: 1470px;
+            height: 550px;
+            position: absolute;
+            top: 710px;
+    }
+        p7{
+            color: white;
+            font-size: 45px;
+            font-weight: bolder;
+            font-family: Verdana, Geneva, Tahoma, sans-serif ;
+            position: relative;
+            top: 200px;
+            left: 250px;
+        }
+        p8{
+            color: white;
+            position: relative;
+            top: 220px;
+            left: 250px;
+            font-size: 27px;
+            
+        }
+        .img1 img{
+            width: 450px;
+            height: 300px;
+            position: relative;
+            left: 900px;
+            top: 30px;
+            opacity: 10;
+        }
+         .child3{
+            background-color:black;
+            width: 1470px;
+            height: 550px;
+            position: absolute;
+            top: 1273px;
+
+        }
+        p9{color: white;
+            font-size: 45px;
+            position: relative;
+            top: 170px;
+            left: 650px;
+            font-weight: 900;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+        }
+        p10{
+            color: white;
+            font-size: 27px;
+            position: relative;
+            top: 190px;
+            left: 650px;
+
+        }
+        .img2 img{
+          width: 450px;
+          height: 500px;
+          position: absolute;
+          top: 10px;
+          left: 100px;
+          opacity: 5;
+        }
+
+
+
+
+
+
+
+
+
+        .child4{
+            background-color:black;
+            width: 1470px;
+            height: 550px;
+            position: absolute;
+            top: 1837px;
+
+        }
+        p11{color: white;
+            font-size: 45px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-weight: 900;
+            position: relative;
+            top: 170px;
+            left: 200px;
+
+        }
+        p12{color: white;
+            font-size: 27px;
+            position: relative;
+            top: 190px;
+            left: 200px;
+
+
+        }
+        .img3 img{
+            width: 450px;
+            height: 500px;
+            position: absolute;
+            left: 850px;
+            bottom: 40px;
+            opacity: 5;
+        }
+
+
+
+
+
+
+
+
+
+
+
+.child5{
+    background-color:black;
+            width: 1470px;
+            height: 550px;
+            position: absolute;
+            top: 2400px;
+
+}
+p13{color: white;
+    font-size: 45px;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    top: 170px;
+    left: 650px;
+
+}
+p14{color: white;
+    font-size: 27px;
+    position: relative;
+    top: 190px;
+    left: 650px;
+
+}
+.img4 img{
+    width: 400px;
+    height: 500px;
+    position: absolute;
+    bottom: 30px;
+    left: 80px;
+    opacity: 5;
+}
+
+
+
+
+
+
+
+
+.child6{
+    background-color: black;
+            width: 1470px;
+            height: 1000px;
+            position: absolute;
+            top: 2963px;
+}
+p15{
+    color: white;
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    position: relative;
+    top: 60px;
+    left: 375px;
+
+}
+.accordian{
+margin:60px 100px;
+margin-top: 100px;
+max-width: 1200px;
+color: white;
+}
+
+.accordian li{list-style: none;
+    width: 100%;
+    padding:5px;
+
+
+}
+.accordian li label{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: #303030;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 2px;
+    cursor: pointer;
+    position: relative;
+
+}
+label::after{
+    content: '+';
+    font-size: 34px;
+    position: absolute;
+    right: 20px;
+    transition: transform 0.5s;
+}
+input[type="radio"]{
+    display: none;
+}
+.accordian .content{
+    background: #303030;
+    text-align: left;
+    padding: 0 20px;
+    max-height:0 ;
+    overflow: hidden;
+    transition: max-height 0.5s,padding 0.5s;
+}
+.accordian input[type="radio"]:checked+label+.content{
+    max-height: 600px;
+    padding: 30px 20px;
+}
+.accordian input[type="radio"]:checked+label::after{
+    transform: rotate(135deg);
+}
+.child6 small{
+    color: white;
+    position: relative;
+    left: 440px;
+    font-size: 20px;
+    top: 50px;
+
+}
+span{
+    position: absolute;
+    top: 407px;
+    left: -5%;
+   
+
+    
+}
+button10{
+    background-color: red;
+    position: absolute;
+    left:760px ;
+    top: 920px;
+    border-radius: 10px;
+    padding: 10px;
+    width: 200px;
+
+
+
+}
+button10:hover{
+    transition: 0.5s;
+    background-color: brown;
+    
+}
+p20{
+    color: white;
+    position: relative;
+    font-size: 25px;
+
+}
+p21{
+    color: white;
+    position: relative;
+    left: 50px;
+    font-size: 25px;
+    
+}
+
+
+
+
+
+.child7{
+    background-color: black;
+    width: 1470px;
+    height: 430px;
+    position: absolute;
+    top: 3977px;
+}
+p16{color: white;
+    font-size: 15px;
+    position: relative;
+    top: 60px;
+    left: 100px;}
+    p17{color: white;
+        font-size: 15px;
+        position: relative;
+        top: 60px;
+        left: 105px;
+
+
+
+}
+
+
+    
+    
+
+
+
+td{
+    color: white;
+    text-align: left;
+    padding: 10px;
+    border-collapse: collapse;
+    position: relative;
+    top: 80px;
+    left: 85px;
+    width: 300px;
+    height: 10px;
+    
+
+}
+#language{
+    background-color: black;
+    font-style: normal;
+    color: white;
+    width: 120px;
+    height: 30px;
+    position: relative;
+    top: 95px;
+    left: 95px;
+    border-radius: 10px;
+}
+p18{
+    color: white;
+    position: relative;
+    top: 120px;
+    left: 95px;
+}
